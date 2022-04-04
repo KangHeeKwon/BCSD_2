@@ -1,4 +1,4 @@
-package com.example.ptsd_homework2_2line
+package com.example.ptsd_homework2_3
 
 import org.junit.Test
 
